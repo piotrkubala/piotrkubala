@@ -1,10 +1,14 @@
-### Hi there 👋
+## Hi
+My name is Piotr Kubala and I am a student of Computer Science (Informatyka i Systemy Inteligentne) at AGH University of Science and Technology in Kraków (Poland).
+
+I am especially interested in algorithms and maths.
+
+### My favourite programming languages:
+- 🥇 Python
+- 🥈 C++
+- 🥉 C.
 
 <!--
-**piotrkubala/piotrkubala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
