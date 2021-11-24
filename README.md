@@ -8,6 +8,8 @@ I am especially interested in algorithms and maths.
 - 🥈 C++
 - 🥉 C.
 
+### [My personal website](https://piotrkubala.github.io/)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
