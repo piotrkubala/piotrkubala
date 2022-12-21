@@ -10,4 +10,4 @@ I am especially interested in algorithms and maths.
 
 ### [My personal website](https://piotrkubala.github.io/)
 
-### [Interesting scientific publication code link](https://github.com/piotrkubala/text-to-text-transfer-transformer)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piotrkubala&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
